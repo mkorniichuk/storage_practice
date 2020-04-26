@@ -5,3 +5,9 @@ This is the cconfiguration file for nginx reverse proxy server. Port for incomin
 ```
 http://<destination_host>:<destination_port>
 ```
+
+## Configuration file sould be placed to
+
+```
+/etc/nginx/conf.d/default.conf
+```
